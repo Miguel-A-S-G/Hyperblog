@@ -1,4 +1,4 @@
 Este es un archivo de texto plano facil y sencillo.
 
 No contiene nada importante, solo poca informacion sobre mi
-como mi nombre: Miguel, mi apellido: Saenz y mi edad: 18.
+como mis dos nombres: Miguel Angel, mis dos apellidos: Saenz Garzon y mi edad: 18.
