@@ -1,5 +1,5 @@
-# Hyperblog 💚
-Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
+# HyperBlog 
+Un increíble blog para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
@@ -11,8 +11,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
->Si desean pueden visitar mi cuenta de youtube ;)
->Miguel A.S.G 💚
+>Si desean pueden visitar mi cuenta de youtube 💚
 
 ### Aqui abajo encontrarán mi cuenta de Youtube.
 [MIGUEL A.S.G](https://www.youtube.com/channel/UCvBewL4rSwvvAOul_86hJoQ)
