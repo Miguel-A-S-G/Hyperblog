@@ -12,7 +12,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Disponible para todas las edades
 
 >Si desean pueden visitar mi cuenta de youtube ;)
-Miguel A.S.G 💚
+>Miguel A.S.G 💚
 
-###Aqui abajo encontrarán mi cuenta de Youtube.
+### Aqui abajo encontrarán mi cuenta de Youtube.
 [MIGUEL A.S.G](https://www.youtube.com/channel/UCvBewL4rSwvvAOul_86hJoQ)
