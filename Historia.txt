@@ -1,8 +1,9 @@
 Este es un archivo de texto plano facil y sencillo.
 
+CONTENIDO
 No contiene nada importante, solo poca informacion sobre mi
 como mis dos nombres: Miguel Angel, mis dos apellidos: Saenz Garzon y mi edad: 18.
 
-Ahora falta poco para que cumpla 19 y aun me cuesta adaptarme a mis propias rutinas.
-
-Me la paso jugando Euro truck simulator con los hermanos y asi pierdo mas tiempo.
+SOBRE MÍ
+Ahora falta poco para que cumpla 19 y ya no me cuesta adaptarme a mis propias rutinas.
+Ya casi no juego Euro truck simulator con los hermanos por lo que no he perdido tanto tiempo.
